@@ -51,6 +51,7 @@ full stack deep learning - llm bootcamp: https://fullstackdeeplearning.com/llm-b
 	- [https://withmartian.com](https://withmartian.com/)
 	- [https://aihero.studio/](https://aihero.studio/)
 - "LLM observability": [Baserun, Athina, LangSmith, Parea, Arize, Langfuse](https://news.ycombinator.com/item?id=39371297)
+- LLMOps: [Keywords AI](https://keywordsai.co) is a unified developer platform where you can call 150+ LLM using the OpenAI format with one API key and get insights into your AI products.
 - evals 
 	- scorecard
 	- https://www.arthur.ai/blog/introducing-arthur-bench
